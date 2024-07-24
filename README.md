@@ -1,0 +1,1 @@
+A simple Nest.js REST API, with analytics and communications implemented as microservices, built to teach myself Nest.js.
